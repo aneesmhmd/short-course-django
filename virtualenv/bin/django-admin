@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/anees/My Folder/Brototype/Machine Tests/test/virtualenv/bin/python3" "$0" "$@"
+'''exec' "/home/anees/My Folder/Brototype/Machine Tests/Test/virtualenv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
